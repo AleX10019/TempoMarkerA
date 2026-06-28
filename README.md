@@ -33,6 +33,8 @@ Whether you're creating motion graphics synced to music, VJ loops, esports broad
 - ⏩ **Beat Navigation** — jump the playhead beat by beat
 - 📐 **Live readout** — shows frames-per-beat in real time
 
+- <img width="1426" height="581" alt="image" src="https://github.com/user-attachments/assets/11a9b410-058b-48ef-8af4-a6acc334020d" />
+
 ---
 
 ## Compatibility
